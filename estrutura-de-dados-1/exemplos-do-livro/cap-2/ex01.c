@@ -1,4 +1,4 @@
-//Página 49 ~ 50
+//Exemplo de Pilha - Página 49 ~ 50
 
 //Bibliotecas
 #include <stdio.h>;
