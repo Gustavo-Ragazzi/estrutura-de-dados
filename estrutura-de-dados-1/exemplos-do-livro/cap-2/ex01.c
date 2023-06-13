@@ -1,9 +1,9 @@
 //Exemplo de Pilha - Página 49 ~ 50
 
 //Bibliotecas
-#include <stdio.h>;
-#include <stdlib.h>;
-#include <locale.h>;
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
 
 //Constantes
 #define tamanho 5
