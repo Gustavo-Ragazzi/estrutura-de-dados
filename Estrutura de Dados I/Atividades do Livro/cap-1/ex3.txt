@@ -1,0 +1,3 @@
+Qual a diferença entre uma variável do tipo inteiro de um ponteiro do tipo inteiro?
+
+A variável do tipo inteiro (int) espera um valor de um número real, enquanto uma variável de um ponteiro do tipo inteiro espera o endereço de memória de uma variável do tipo int.

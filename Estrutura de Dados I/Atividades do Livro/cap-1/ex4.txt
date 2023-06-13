@@ -1,0 +1,3 @@
+Por que devemos preencher um ponteiro apenas com o endereço de uma variável ou por alocação dinâmica usando funções do tipo malloc?
+
+Porque se tentarmos atribuir o valor da variável passando diretamente o endereço de memória ela pode pegar um endereço indevido, que pode conter alguma variável usada por outro processo.
